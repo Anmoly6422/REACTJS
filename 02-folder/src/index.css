@@ -3,12 +3,26 @@
   padding:0;    
   box-sizing:border-box;
   font-family: 'helvetica neue';
-  color:#111;
+  color:#fff
 }
 html,body{
   height:100%;
   width: 100%;
+  background-color:#111;
 } 
-body{
-  background-color: #fff;
+/* body{
+  background-color:black;
+  font-size:18px;
+} */
+.card{
+  background-color:pink;
+  border-radius:8px;
+  margin:10px;
+  padding:10px;
+}
+.navbar{
+  background-color:rgb(161, 237, 161);
+  border-radius:20px;
+  padding: 20px;
+  margin: 10px;;
 }
