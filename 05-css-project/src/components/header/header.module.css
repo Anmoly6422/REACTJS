@@ -1,0 +1,13 @@
+.header{
+  background-color: rgb(198, 88, 88);;
+   display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+.btn{
+  background-color: rgb(141, 207, 141);
+  color: black;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
