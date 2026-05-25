@@ -1,0 +1,18 @@
+*{
+  height: 0;
+  width: 0; 
+  color: #111;
+  
+}
+html,body{
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #111;
+}
+.box{
+  height: 200px;
+  width: 200px;
+  background-color:rgb(206, 31, 31);
+}
